@@ -34,11 +34,11 @@ Setelah login telah berhasil, maka program akan menampilkan menu sesuai dengan p
 ![image](https://github.com/PA-DASPRO-Kelompok-14/PA-DASPRO/assets/144673468/b47f981d-3d78-4ecd-abf1-0be474bcc31a)
 
 Pada menu admin terdapat 5 pilihan yang bisa dipilih dan admin diminta untuk memasukkan salah satu pilihan.
-●	pilihan pertama, tambah barang memiliki fungsi untuk menambahkan ID produk, nama produk, harga produk dan stok produk baru.
-●	pilihan kedua, tampilkan barang memiliki fungsi untuk menampilkan semua barang yang ada dalam bentuk table.
-●	pilihan ketiga, ubah barang memiliki fungsi untuk mengubah ID produk, nama produk, harga produk dan stok produk.
-●	pilihan keempat, hapus barang, memiliki fungsi untuk menghapus produk yang ada di dalam data produk.
-●	pilihan kelima, keluar memiliki fungsi untuk keluar dari menu admin.
+- pilihan pertama, tambah barang memiliki fungsi untuk menambahkan ID produk, nama produk, harga produk dan stok produk baru.
+- pilihan kedua, tampilkan barang memiliki fungsi untuk menampilkan semua barang yang ada dalam bentuk table.
+- pilihan ketiga, ubah barang memiliki fungsi untuk mengubah ID produk, nama produk, harga produk dan stok produk.
+- pilihan keempat, hapus barang, memiliki fungsi untuk menghapus produk yang ada di dalam data produk.
+- pilihan kelima, keluar memiliki fungsi untuk keluar dari menu admin.
 
 
 Jika admin memilih pilihan 1, maka admin diminta untuk menginputkan ID produk, nama produk, harga produk dan stok produk 
